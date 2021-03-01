@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -53,3 +54,6 @@ __pycache__/
 .DS_Store
 Backtesting/
 *.jpg
+=======
+.DS_Store
+>>>>>>> 94eeb0957a6a0689cbff77a82f39bf7d4b912c39
